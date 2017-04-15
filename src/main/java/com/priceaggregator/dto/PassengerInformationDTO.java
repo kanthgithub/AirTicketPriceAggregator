@@ -1,4 +1,4 @@
-package com.guavaParallel.dto;
+package com.priceaggregator.dto;
 
 
 import org.pojomatic.annotations.AutoProperty;

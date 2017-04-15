@@ -1,4 +1,4 @@
-package com.guavaParallel.dto;
+package com.priceaggregator.dto;
 
 import java.time.LocalDate;
 

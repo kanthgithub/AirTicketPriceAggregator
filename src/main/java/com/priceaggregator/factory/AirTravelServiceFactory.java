@@ -1,4 +1,4 @@
-package com.guavaParallel.factory;
+package com.priceaggregator.factory;
 
 /**
  * Created by lakshmikanth on 29/1/17.

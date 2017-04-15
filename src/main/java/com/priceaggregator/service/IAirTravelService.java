@@ -1,7 +1,7 @@
-package com.guavaParallel.service;
+package com.priceaggregator.service;
 
-import com.guavaParallel.dto.QuoteRequestDTO;
-import com.guavaParallel.dto.QuoteResponseDTO;
+import com.priceaggregator.dto.QuoteRequestDTO;
+import com.priceaggregator.dto.QuoteResponseDTO;
 
 /**
  * Created by lakshmikanth on 29/1/17.
